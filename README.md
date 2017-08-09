@@ -1,0 +1,2 @@
+# YoJHipster
+YoYo
